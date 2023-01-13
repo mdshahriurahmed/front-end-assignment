@@ -18,6 +18,7 @@ body {
     padding: 60px;
 }
 
+/* forms style started */
 .form-main {
     width: 469px;
     height: 611px;
@@ -126,3 +127,15 @@ input[type="submit"] {
     margin-bottom: 10px;
     display: block;
 }
+
+/* forms style end */
+
+/* footer style started */
+footer p {
+    font-size: 14px;
+    color: #545454;
+    text-align: center;
+    margin-top: 120px;
+}
+
+/* footer style end */
